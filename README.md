@@ -4,3 +4,7 @@ cat
 fox
 rat
 bird
+yakitori
+ramen
+curry
+udon
